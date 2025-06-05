@@ -1,4 +1,4 @@
-package org.greenbytes.java.src.test.java.guavaVsJDKTests.io;
+package org.greenbytes.guavaVsJDKTests.io;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
